@@ -33,10 +33,3 @@ This project analyzes company sales to provide insights into revenue trends, pro
 Contains fields such as:
 `OrderDate, ShipDate, Region, Channel, Customer, Product, Price, Cost, Quantity…`
 
-## 📎 Screenshots
-
-(Insert images here)
-
-## 🔗 Download or View Dashboard
-
-(Add Tableau Public link when you publish)
